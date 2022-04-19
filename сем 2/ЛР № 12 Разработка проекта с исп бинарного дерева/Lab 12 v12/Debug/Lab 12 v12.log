@@ -1,0 +1,28 @@
+﻿Сборка начата 18.04.2022 17:27:44.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Lab 12 v12\Lab 12 v12.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Lab 12 v12.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt "Lab 12 v12.cpp"
+         Lab 12 v12.cpp
+     1>C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Lab 12 v12\Lab 12 v12.cpp(40,32): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+       C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Lab 12 v12\Lab 12 v12.cpp(40,32): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Debug\Lab 12 v12.exe" /INCREMENTAL /ILK:"Debug\Lab 12 v12.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Debug\Lab 12 v12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Debug\Lab 12 v12.lib" /MACHINE:X86 "Debug\Lab 12 v12.obj"
+         Debug\Tree.obj
+         Lab 12 v12.vcxproj -> C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Debug\Lab 12 v12.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Lab 12 v12.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab 12 v12.tlog\Lab 12 v12.lastbuildstate".
+     1>Сборка проекта "C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Lab 12 v12\Lab 12 v12.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Lab 12 v12\Lab 12 v12.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\Frein\Desktop\work\2 сем\ОАИП\Lab 12 v12\Lab 12 v12\Lab 12 v12.cpp(40,32): warning C4474: "fscanf_s" : для строки формата передано слишком много аргументов
+
+    Предупреждений: 1
+    Ошибок: 0
+
+Прошло времени 00:00:01.81
